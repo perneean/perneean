@@ -1,4 +1,5 @@
-### Hi there 👋
+![ACKANG1](https://user-images.githubusercontent.com/113653315/194865473-ccf61458-3d48-4c7b-8a08-7f6aeb1bb49f.gif)
+
 
 <!--
 **perneean/perneean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
